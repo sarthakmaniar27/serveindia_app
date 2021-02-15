@@ -32,7 +32,6 @@ Screenshots of our app:
 
 ![WhatsApp Image 2021-02-15 at 10 23 47 AM 2](https://user-images.githubusercontent.com/47854537/107907932-e692b680-6f7a-11eb-8d6e-c698b5142cf7.jpeg)
 
-
-
+![WhatsApp Image 2021-02-15 at 11 05 16 AM](https://user-images.githubusercontent.com/47854537/107909271-d3cdb100-6f7d-11eb-844a-e174768773d9.jpeg)
 
 
